@@ -40,6 +40,7 @@ import BNFC.Backend.CSharp
 import BNFC.Backend.CPP.STL
 import qualified BNFC.Backend.C as C
 import BNFC.Backend.OCaml
+import BNFC.Backend.Pandoc
 import BNFC.Backend.XML
 import BNFC.Utils
 import qualified BNFC.Options as O
